@@ -1,5 +1,5 @@
 # Ambulance-allocation-optimization-models-for-the-ED-overcrowding-instances
-Set of data instances to run the numerical experiments. 
+Set of data instances to run the numerical experiments.
 
 ## Instances
 We defined six classes of scenarios and generated five instances per class. The data utilized was created through random processes in a range of plausible values based on the real scenario studied in section 5 of the article. The difference among the classes is characterized by the number of emergencies and the number of emergency departments.
@@ -24,3 +24,6 @@ We next provide the characteristics of each class in the numerical experiment.
 4) 100 ambulance emergencies and 20 EDs.
 5) 150 ambulance emergencies and 20 EDs.
 6) 200 ambulance emergencies and 30 EDs.
+
+
+Feel free to contact me if you have any question about implementation.
