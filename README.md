@@ -2,14 +2,14 @@
 Set of data instances to run the numerical experiments.
 
 ## Instances
-We defined six classes of scenarios and generated five instances per class. The data utilized was created through random processes in a range of plausible values based on the real scenario studied in section 5 of the article. The difference among the classes is characterized by the number of emergencies and the number of emergency departments.
+We defined six classes of scenarios and generated five instances per class. The data was created through random processes in a range of plausible values based on the real scenario studied in section 5 of the article. The difference among the classes is characterized by the number of emergencies and the number of emergency departments.
 
 ## Data
-The following is the list of files per instance in csv format:
+The following is the list of files per instance in CSV format:
 
 1) Emergency departments (EDs) characteristics.
 2) Patients characteristics.
-3) Travel time from emergency to hospitals.
+3) Travel time from emergency to hospital.
 4) Parameters of EDs waiting time.
 5) Number of walk-in patients per ED per period of time 
 6) Number of patients waiting in EDs at the beginning of time 0. 
@@ -26,4 +26,4 @@ We next provide the characteristics of each class in the numerical experiment.
 6) 200 ambulance emergencies and 30 EDs.
 
 
-Feel free to contact me if you have any question about implementation.
+Feel free to contact me if you have any questions about implementation.
